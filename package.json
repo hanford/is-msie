@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanford/is-ie.git"
+    "url": "git+https://github.com/hanford/is-msie.git"
   },
   "author": "Jack Hanford <jackhanford@gmail.com> (http://jackhanford.com)",
   "scripts": {
@@ -31,7 +31,7 @@
     "global": "~4.3.0"
   },
   "bugs": {
-    "url": "https://github.com/hanford/is-ie/issues"
+    "url": "https://github.com/hanford/is-msie/issues"
   },
-  "homepage": "https://github.com/hanford/is-ie#readme"
+  "homepage": "https://github.com/hanford/is-msie#readme"
 }
