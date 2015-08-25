@@ -1,0 +1,37 @@
+{
+  "name": "is-msie",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Detect IE in user agents",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanford/is-ie.git"
+  },
+  "author": "Jack Hanford <jackhanford@gmail.com> (http://jackhanford.com)",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "ie",
+    "user",
+    "agent",
+    "detection",
+    "browser"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.6.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "global": "~4.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/hanford/is-ie/issues"
+  },
+  "homepage": "https://github.com/hanford/is-ie#readme"
+}
