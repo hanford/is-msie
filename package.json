@@ -1,7 +1,7 @@
 {
   "name": "is-msie",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect IE in user agents",
   "license": "MIT",
   "repository": {
